@@ -1,0 +1,10 @@
+# Ignore executables
+*.exe
+*.o
+*.out
+
+# Ignore User Databases (Security)
+users_db.txt
+
+# Ignore User History logs (Privacy)
+*_history.txt
