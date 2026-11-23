@@ -16,7 +16,33 @@ Mental Health Tracker v6.5 is a console-based application developed in C++ to de
 The application allows users to record mood ratings, review previous sessions, view text-based statistics, and interact with a simple rule-based chatbot.
 
 This is an educational software project rather than a medical or clinical assessment tool.
+## Application Preview
 
+### Main Menu and User Interaction
+
+<p align="center">
+  <img src="screenshots/main-menu.png"
+       alt="Mental Health Tracker main menu and compare with friend feature"
+       width="85%">
+</p>
+
+### History Management
+
+<p align="center">
+  <img src="screenshots/delete-history.png"
+       alt="Mental Health Tracker delete history feature"
+       width="85%">
+</p>
+
+### Mood Graph Analytics
+
+<p align="center">
+  <img src="screenshots/analytics.png"
+       alt="Mental Health Tracker mood graph before sessions"
+       width="85%">
+</p>
+
+---
 ## Key Features
 
 | Feature | Description |
